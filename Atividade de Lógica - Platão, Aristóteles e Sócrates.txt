@@ -1,0 +1,35 @@
+aristoteles
+platao
+socrates
+
+quimica
+1º socrates/platao
+2º 
+3°
+
+matematica
+1ºplatao
+2ºplatao/aristoteles
+3ºaristoteles
+
+fisica
+1º platao/aristoteles
+2º platao/socrates/aristoteles
+3º socrates/aristoteles
+
+-RESPOSTA-
+
+Física
+1º Aristóteles
+2º Platão
+3º Sócrates
+
+Matemática
+1º Platão
+2º Sócrates
+3º Aristóteles
+
+Química
+1º Sócrates
+2º Aristóteles
+3º Platão
